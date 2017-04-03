@@ -38,7 +38,7 @@
     "typescript": "^2.1.0"
   },
   "dependencies": {
-    "@zenefits/graphql-loader": "^0.2.0",
+    "@creditkarma/graphql-loader": "git+https://github.com/zenefits/graphql-loader.git#v0.2.1.1",
     "commander": "^2.9.0",
     "glob": "^7.0.5",
     "graphql-tools": "^0.10.0"
