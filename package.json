@@ -1,6 +1,6 @@
 {
   "name": "@creditkarma/graphql-validator",
-  "version": "0.2.1",
+  "version": "0.2.1.1",
   "description": "Validate queries agains a GraphQL Schema",
   "main": "./dist/index.js",
   "scripts": {
@@ -38,13 +38,13 @@
     "typescript": "^2.1.0"
   },
   "dependencies": {
-    "@creditkarma/graphql-loader": "^0.2.0",
+    "@zenefits/graphql-loader": "^0.2.0",
     "commander": "^2.9.0",
     "glob": "^7.0.5",
-    "graphql-tools": "^0.8.0"
+    "graphql-tools": "^0.10.0"
   },
   "peerDependencies": {
-    "graphql": "^0.6.1 || ^0.7.0 || ^0.8.2"
+    "graphql": "^0.8.0 || ^0.9.0 || ^0.10.0"
   },
   "typings": "dist/index.d.ts",
   "typescript": {
