@@ -1,6 +1,6 @@
 {
   "name": "@creditkarma/graphql-validator",
-  "version": "0.2.1.1",
+  "version": "0.2.2",
   "description": "Validate queries agains a GraphQL Schema",
   "main": "./dist/index.js",
   "scripts": {
@@ -38,7 +38,7 @@
     "typescript": "^2.1.0"
   },
   "dependencies": {
-    "@creditkarma/graphql-loader": "git+https://github.com/zenefits/graphql-loader.git#v0.2.1.1",
+    "@creditkarma/graphql-loader": "git+https://github.com/zenefits/graphql-loader.git#v0.2.2",
     "commander": "^2.9.0",
     "glob": "^7.0.5",
     "graphql-tools": "^0.10.0"
